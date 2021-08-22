@@ -2,7 +2,7 @@
 
 I am a Frontend developer from Cracow
 
-- 🔭 Working on multiple frontend project using React and Next
+- 🔭  Working on multiple frontend project using React and Next
 
 <br>
 
