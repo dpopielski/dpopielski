@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I am a Frontend software engineer from Cracow
+I am a Frontend developer from Cracow
 
 - 🔭 Working on multiple frontend project using React and Next
 
